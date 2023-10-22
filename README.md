@@ -15,7 +15,7 @@
       </thead>
       <tbody>
         <tr>
-          <td>https://www.highsnobiety.com/static-assets/dato/1682600627-kith-adidas-clarks-samba-2.jpg?fp-x=0.5&fp-y=0.5&fit=crop&auto=compress%2Cformat&cs=srgb&ar=1200%3A800&w=1200](https://cdn.shopify.com/s/files/1/0094/2252/files/8_c7240758-6a10-4d25-86e4-dc30f8b51e9d.jpg?v=1679404476&width=480%0A)https://cdn.shopify.com/s/files/1/0094/2252/files/8_c7240758-6a10-4d25-86e4-dc30f8b51e9d.jpg?v=1679404476&width=480%0A</td>
+          <td><img src="https://cdn.shopify.com/s/files/1/0094/2252/files/8_c7240758-6a10-4d25-86e4-dc30f8b51e9d.jpg?v=1679404476&width=480%0A"></td>
         </tr>
       </tbody>
     </table>
