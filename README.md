@@ -15,7 +15,7 @@
       </thead>
       <tbody>
         <tr>
-          <td><img src="https://cdn.shopify.com/s/files/1/0094/2252/files/8_c7240758-6a10-4d25-86e4-dc30f8b51e9d.jpg?v=1679404476&width=480%0A"></td>
+          <td><img src="https://cdn.shopify.com/s/files/1/0094/2252/files/8_c7240758-6a10-4d25-86e4-dc30f8b51e9d.jpg?v=1679404476&width=480%0A" alt="Adidas collabed with KITH to create this shoe" width="200" height="200"></td>
         </tr>
       </tbody>
     </table>
