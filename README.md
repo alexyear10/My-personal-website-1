@@ -15,9 +15,9 @@
 <nav class="w3-sidebar w3-bar-block w3-white w3-collapse w3-top" style="z-index:3;width:250px" id="mySidebar">
   <div class="w3-container w3-display-container w3-padding-16">
     <i onclick="w3_close()" class="fa fa-remove w3-hide-large w3-button w3-display-topright"></i>
-    <h3 class="w3-wide"><b>LOGO</b></h3>
+    <h3 class="w3-wide"><b>Adon's kicks</b></h3>
   </div>
-  <div class="w3-padding-64 w3-large w3-text-grey" style="font-weight:bold">
+  <div class="w3-padding-64 w3-large w3-text-grey" style="font-weight:bold">  
     <a href="#" class="w3-bar-item w3-button">Hats</a>
     <a href="#" class="w3-bar-item w3-button">Shirts</a>
     <a href="#" class="w3-bar-item w3-button">Jumpers/Jackets</a>
@@ -26,6 +26,7 @@
       Shoes <i class="fa fa-caret-down"></i>
     </a>
     <div id="demoAcc" class="w3-bar-block w3-hide w3-padding-large w3-medium">
+      <a href="#" class="w3-bar-item w3-button">All shoes</a>
       <a href="#" class="w3-bar-item w3-button">Nike</a>
       <a href="#" class="w3-bar-item w3-button">Jordan</a>
       <a href="#" class="w3-bar-item w3-button">Adidas</a>
@@ -43,7 +44,7 @@
 
 <!-- Top menu on small screens -->
 <header class="w3-bar w3-top w3-hide-large w3-black w3-xlarge">
-  <div class="w3-bar-item w3-padding-24 w3-wide">LOGO</div>
+  <div class="w3-bar-item w3-padding-24 w3-wide">Adon's kicks</div>
   <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-24 w3-right" onclick="w3_open()"><i class="fa fa-bars"></i></a>
 </header>
 
@@ -58,7 +59,7 @@
   
   <!-- Top header -->
   <header class="w3-container w3-xlarge">
-    <p class="w3-left">Jeans</p>
+    <p class="w3-left">All shoes</p>
     <p class="w3-right">
       <i class="fa fa-shopping-cart w3-margin-right"></i>
       <i class="fa fa-search"></i>
@@ -77,43 +78,42 @@
   </div>
 
   <div class="w3-container w3-text-grey" id="jeans">
-    <p>8 items</p>
+    <p>Hottest sneakers of the year</p>
   </div>
 
   <!-- Product grid -->
   <div class="w3-row w3-grayscale">
     <div class="w3-col l3 s6">
       <div class="w3-container">
-        <img src="/w3images/jeans1.jpg" style="width:100%">
-        <p>Ripped Skinny Jeans<br><b>$24.99</b></p>
+        <img src="https://cdn.shopify.com/s/files/1/0094/2252/files/4_3a7fad0e-b888-4d4a-a45e-0331807483a4.jpg?v=1679404436&width=480%0A" style="width:100%">
+        <p>KITH x Clarks x adidas Samba<br><b>From $578</b></p>
       </div>
       <div class="w3-container">
-        <img src="/w3images/jeans2.jpg" style="width:100%">
-        <p>Mega Ripped Jeans<br><b>$19.99</b></p>
+        <img src="https://cdn.shopify.com/s/files/1/0260/3241/files/September_20_2023-Asics-GMBH-Legacy-02_2048x2048.jpg?v=1695241627" style="width:100%">
+        <p>ASICS x GmbH – GEL-KAYANO LEGACY<br><b>From $283</b></p>
       </div>
     </div>
 
     <div class="w3-col l3 s6">
       <div class="w3-container">
         <div class="w3-display-container">
-          <img src="/w3images/jeans2.jpg" style="width:100%">
-          <span class="w3-tag w3-display-topleft">New</span>
+          <img src="https://www.newbalance.com.au/dw/image/v2/AASX_PRD/on/demandware.static/-/Library-Sites-NBAU-NBNZ/default/dwe9d6dab6/test-comp-images/comp-s/13681_Comp_E2_Image1.jpg?sw=991&sfrm=jpg" style="width:100%">
           <div class="w3-display-middle w3-display-hover">
             <button class="w3-button w3-black">Buy now <i class="fa fa-shopping-cart"></i></button>
           </div>
         </div>
-        <p>Mega Ripped Jeans<br><b>$19.99</b></p>
+        <p>New Balance x Stone Island 574 Legacy<br><b>From $437</b></p>
       </div>
       <div class="w3-container">
-        <img src="/w3images/jeans3.jpg" style="width:100%">
-        <p>Washed Skinny Jeans<br><b>$20.50</b></p>
+        <img src="https://cdn.sanity.io/images/c1chvb1i/production/62eef869f1def0a3d703546cadc2a004fa57f127-1200x631.jpg?rect=39,0,1122,631&w=1200&h=675" style="width:100%">
+        <p>Adidas Stan Smith Homer Simpson<br><b>From $185</b></p>
       </div>
     </div>
 
     <div class="w3-col l3 s6">
       <div class="w3-container">
-        <img src="/w3images/jeans3.jpg" style="width:100%">
-        <p>Washed Skinny Jeans<br><b>$20.50</b></p>
+        <img src="https://solematesneakers.com/cdn/shop/products/image_1f6915b2-b068-468c-bc8f-7db72c34dc1d.png?v=1679527831&width=1445" style="width:100%">
+        <p>Nike Jordan 4 Retro SB<br><b>From $516</b></p>
       </div>
       <div class="w3-container">
         <div class="w3-display-container">
@@ -129,8 +129,8 @@
 
     <div class="w3-col l3 s6">
       <div class="w3-container">
-        <img src="/w3images/jeans4.jpg" style="width:100%">
-        <p>Vintage Skinny Jeans<br><b>$14.99</b></p>
+        <img src="https://sneakernews.com/wp-content/uploads/2023/01/CORTEIZ-Nike-Air-Max-95-2023-17.jpg" style="width:100%">
+        <p>Corteiz x Nike Air Max 95 SP<br><b>From $470</b></p>
       </div>
       <div class="w3-container">
         <img src="/w3images/jeans1.jpg" style="width:100%">
