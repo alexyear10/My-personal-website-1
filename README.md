@@ -77,10 +77,14 @@
     </div>
   </div>
 
-  <div class="w3-container w3-text-grey" id="jeans">
+  <div class="w3-container w3-text-black" id="jeans">
     <p>Hottest sneakers of the year</p>
   </div>
 
+  <div class="w3-container w3-text-black" id="jeans">
+    <p>View more</p>
+  </div>
+  
   <!-- Product grid -->
   <div class="w3-row w3-grayscale">
     <div class="w3-col l3 s6">
@@ -117,13 +121,12 @@
       </div>
       <div class="w3-container">
         <div class="w3-display-container">
-          <img src="/w3images/jeans4.jpg" style="width:100%">
-          <span class="w3-tag w3-display-topleft">Sale</span>
+          <img src="https://solematesneakers.com/cdn/shop/products/image_aef70c50-6f6a-4306-914b-71e2ab1cace5.png?v=1682224509&width=1946" style="width:100%">
           <div class="w3-display-middle w3-display-hover">
             <button class="w3-button w3-black">Buy now <i class="fa fa-shopping-cart"></i></button>
           </div>
         </div>
-        <p>Vintage Skinny Jeans<br><b class="w3-text-red">$14.99</b></p>
+        <p>New Balance x Aimé Leon Dore 860v2<br><b class="w3-text-black">From $520</b></p>
       </div>
     </div>
 
@@ -133,8 +136,8 @@
         <p>Corteiz x Nike Air Max 95 SP<br><b>From $470</b></p>
       </div>
       <div class="w3-container">
-        <img src="/w3images/jeans1.jpg" style="width:100%">
-        <p>Ripped Skinny Jeans<br><b>$24.99</b></p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2EtqT8JetrLgMEOyQLhFrhexQDTKzBcABgqLqqUeMfIFNyB7nAu0RNTwuoVc1ItVG_hA:https://uk.bape.com/cdn/shop/files/001FWJ732905_BEI_A_0d04dc4d-4702-4f28-9ec2-76763e381e24.jpg%3Fv%3D1695723750%26width%3D1200&usqp=CAU" style="width:100%">
+        <p>BAPE x Highsnobiety BAPE STA<br><b>From $550</b></p>
       </div>
     </div>
   </div>
