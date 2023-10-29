@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Adon's kicks</title>
 <meta charset="UTF-8">
@@ -59,7 +59,7 @@
   
   <!-- Top header -->
   <header class="w3-container w3-xlarge">
-    <p class="w3-left">All shoes</p>
+    <p class="w3-left">Home Page</p>
     <p class="w3-right">
       <i class="fa fa-shopping-cart w3-margin-right"></i>
       <i class="fa fa-search"></i>
@@ -77,19 +77,23 @@
     </div>
   </div>
 
-  <div class="w3-container w3-text-black" id="jeans">
+  <div class="w3-left w3-text-black" id="jeans">
     <p>Hottest sneakers of the year</p>
   </div>
   
+  <div class="w3-right text-black" id="jeans">
+	<p>View More</p>
+  </div>
+
   <!-- Product grid -->
   <div class="w3-row w3-grayscale">
     <div class="w3-col l3 s6">
       <div class="w3-container">
-        <img src="https://cdn.shopify.com/s/files/1/0094/2252/files/4_3a7fad0e-b888-4d4a-a45e-0331807483a4.jpg?v=1679404436&width=480%0A" style="width:100%">
+        <img src="https://cdn.shopify.com/s/files/1/0094/2252/files/4_3a7fad0e-b888-4d4a-a45e-0331807483a4.jpg?v=1679404436&width=480%0A" height="200" width="200">
         <p>KITH x Clarks x adidas Samba<br><b>From $578</b></p>
       </div>
       <div class="w3-container">
-        <img src="https://cdn.shopify.com/s/files/1/0260/3241/files/September_20_2023-Asics-GMBH-Legacy-02_2048x2048.jpg?v=1695241627" style="width:100%">
+        <img src="https://cdn.shopify.com/s/files/1/0260/3241/files/September_20_2023-Asics-GMBH-Legacy-02_2048x2048.jpg?v=1695241627" height="200" width="200">
         <p>ASICS x GmbH – GEL-KAYANO LEGACY<br><b>From $283</b></p>
       </div>
     </div>
@@ -97,7 +101,7 @@
     <div class="w3-col l3 s6">
       <div class="w3-container">
         <div class="w3-display-container">
-          <img src="https://www.newbalance.com.au/dw/image/v2/AASX_PRD/on/demandware.static/-/Library-Sites-NBAU-NBNZ/default/dwe9d6dab6/test-comp-images/comp-s/13681_Comp_E2_Image1.jpg?sw=991&sfrm=jpg" style="width:100%">
+          <img src="https://www.newbalance.com.au/dw/image/v2/AASX_PRD/on/demandware.static/-/Library-Sites-NBAU-NBNZ/default/dwe9d6dab6/test-comp-images/comp-s/13681_Comp_E2_Image1.jpg?sw=991&sfrm=jpg" height="200" width="200">
           <div class="w3-display-middle w3-display-hover">
             <button class="w3-button w3-black">Buy now <i class="fa fa-shopping-cart"></i></button>
           </div>
@@ -105,19 +109,19 @@
         <p>New Balance x Stone Island 574 Legacy<br><b>From $437</b></p>
       </div>
       <div class="w3-container">
-        <img src="https://cdn.sanity.io/images/c1chvb1i/production/62eef869f1def0a3d703546cadc2a004fa57f127-1200x631.jpg?rect=39,0,1122,631&w=1200&h=675" style="width:100%">
+        <img src="https://cdn.sanity.io/images/c1chvb1i/production/62eef869f1def0a3d703546cadc2a004fa57f127-1200x631.jpg?rect=39,0,1122,631&w=1200&h=675" height="200" width="200">
         <p>Adidas Stan Smith Homer Simpson<br><b>From $185</b></p>
       </div>
     </div>
 
     <div class="w3-col l3 s6">
       <div class="w3-container">
-        <img src="https://solematesneakers.com/cdn/shop/products/image_1f6915b2-b068-468c-bc8f-7db72c34dc1d.png?v=1679527831&width=1445" style="width:100%">
+        <img src="https://solematesneakers.com/cdn/shop/products/image_1f6915b2-b068-468c-bc8f-7db72c34dc1d.png?v=1679527831&width=1445" height="200" width="200">
         <p>Nike Jordan 4 Retro SB<br><b>From $516</b></p>
       </div>
       <div class="w3-container">
         <div class="w3-display-container">
-          <img src="https://solematesneakers.com/cdn/shop/products/image_aef70c50-6f6a-4306-914b-71e2ab1cace5.png?v=1682224509&width=1946" style="width:100%">
+          <img src="https://solematesneakers.com/cdn/shop/products/image_aef70c50-6f6a-4306-914b-71e2ab1cace5.png?v=1682224509&width=1946" height="200" width="200">
           <div class="w3-display-middle w3-display-hover">
             <button class="w3-button w3-black">Buy now <i class="fa fa-shopping-cart"></i></button>
           </div>
@@ -128,11 +132,11 @@
 
     <div class="w3-col l3 s6">
       <div class="w3-container">
-        <img src="https://sneakernews.com/wp-content/uploads/2023/01/CORTEIZ-Nike-Air-Max-95-2023-17.jpg" style="width:100%">
+        <img src="https://sneakernews.com/wp-content/uploads/2023/01/CORTEIZ-Nike-Air-Max-95-2023-17.jpg" height="200" width="200">
         <p>Corteiz x Nike Air Max 95 SP<br><b>From $470</b></p>
       </div>
       <div class="w3-container">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2EtqT8JetrLgMEOyQLhFrhexQDTKzBcABgqLqqUeMfIFNyB7nAu0RNTwuoVc1ItVG_hA:https://uk.bape.com/cdn/shop/files/001FWJ732905_BEI_A_0d04dc4d-4702-4f28-9ec2-76763e381e24.jpg%3Fv%3D1695723750%26width%3D1200&usqp=CAU" style="width:100%">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2EtqT8JetrLgMEOyQLhFrhexQDTKzBcABgqLqqUeMfIFNyB7nAu0RNTwuoVc1ItVG_hA:https://uk.bape.com/cdn/shop/files/001FWJ732905_BEI_A_0d04dc4d-4702-4f28-9ec2-76763e381e24.jpg%3Fv%3D1695723750%26width%3D1200&usqp=CAU" height="200" width="200">
         <p>BAPE x Highsnobiety BAPE STA<br><b>From $550</b></p>
       </div>
     </div>
@@ -148,6 +152,12 @@
         <a href="#" class="w3-bar-item w3-button w3-hover-black">»</a>
       </div>
     </div>
+
+<div>
+<p style="font-size: 20px; color:#1F9AFE;">
+<a href="Webpage_FilePath">About this site</a>
+</p>
+</div>
 
   <!-- Subscribe section -->
   <div class="w3-container w3-black w3-padding-32">
