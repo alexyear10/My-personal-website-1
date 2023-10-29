@@ -68,7 +68,7 @@
 
   <!-- Image header -->
   <div class="w3-display-container w3-container">
-    <img src="/w3images/jeans.jpg" alt="Jeans" style="width:100%">
+    <img src="https://www.picclickimg.com/-HgAAOSwEoRlNjJP/US8-With-Box-2007-Nike-Ajf5-Fusion-Air.webp" alt="Image of my favourite shoe which is the Air Jordan 5 fusion Air Force 1 in the stealth white black bright cactus colourway" style="width:100%">
     <div class="w3-display-topleft w3-text-white" style="padding:24px 48px">
       <h1 class="w3-jumbo w3-hide-small">New arrivals</h1>
       <h1 class="w3-hide-large w3-hide-medium">New arrivals</h1>
