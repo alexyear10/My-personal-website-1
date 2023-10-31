@@ -17,7 +17,7 @@
     <i onclick="w3_close()" class="fa fa-remove w3-hide-large w3-button w3-display-topright"></i>
     <h3 class="w3-wide"><b>Adon's kicks</b></h3>
   </div>
-  <div class="w3-padding-64 w3-large w3-text-grey" style="font-weight:bold">  
+  <div class="w3-padding-64 w3-large w3-text-grey" style="font-weight:bold">
     <a href="#" class="w3-bar-item w3-button">Hats</a>
     <a href="#" class="w3-bar-item w3-button">Shirts</a>
     <a href="#" class="w3-bar-item w3-button">Jumpers/Jackets</a>
@@ -86,7 +86,7 @@
   </div>
 
   <!-- Product grid -->
-  <div class="w3-row w3-grayscale">
+  <div class="w3-row">
     <div class="w3-col l3 s6">
       <div class="w3-container">
         <img src="https://cdn.shopify.com/s/files/1/0094/2252/files/4_3a7fad0e-b888-4d4a-a45e-0331807483a4.jpg?v=1679404436&width=480%0A" height="200" width="200">
